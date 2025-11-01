@@ -2,7 +2,7 @@
 
 How to Compile Project 2
 
-First you will need to install bitarray.
+First you will need to install bitarray into the flip server if not already done.
 
     Use "pip install bitarray"
 
